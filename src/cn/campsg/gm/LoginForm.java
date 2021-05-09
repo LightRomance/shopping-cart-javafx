@@ -101,6 +101,7 @@ public class LoginForm {
 					}
 				}
 				System.out.println(uid);
+				System.out.println("fdsfsfsdf");
 				
 			}
 				
@@ -130,5 +131,6 @@ public class LoginForm {
 		btnReset.setBounds(214, 190, 97, 23);
 		frame.getContentPane().add(btnReset);
 	}
+	
 	
 }
